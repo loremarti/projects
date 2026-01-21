@@ -1,2 +1,0 @@
-This case study utilizes a public dataset from a phone service provider which contains customer demographic, phone service, and churn data.
-This project visulaizes the churn rate by different factors: Age Groups, Geographical Area, Customer Service experiences, Service Plans, Payment Type, and Chrurn Reason.
