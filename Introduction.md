@@ -2,6 +2,8 @@ My name is Lorenzo Martinez and welcome to my repository. My life philosophy is 
 
 This repository consists primarily of PowerBI dashboards that provides visualations and conducts analysis on data from fictitious companies that resemble the real world analysis. 
 
+Customer Churn Analysis.pbix conducts analysis on a cell phone provider's customers and the churn rate of their  customers. The report contains several pages that depicts the landscape of the company's customers and break down the churn rate by demographics, geographic locations, and difference of plan details. This analysis allows for the company re-evaluate their services and provide resources to mitigate churn.
+
 Key Components:
 - Data Cleaning
 - Data Transformation
