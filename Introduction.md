@@ -4,10 +4,10 @@ This repository contains primarily PowerBI dashboards that provides visualations
 
 Key Components:
 - *Data Cleaning*
--Data Transformation
--Data Normalization
--Data Modeling
--DAX Functions
--Create Measures
--Data Visualizations
--Exploratory Data Analysis
+- Data Transformation
+- Data Normalization
+- Data Modeling
+- DAX Functions
+- Create Measures
+- Data Visualizations
+- Exploratory Data Analysis
