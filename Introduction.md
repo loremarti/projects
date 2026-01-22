@@ -3,7 +3,7 @@ My name is Lorenzo Martinez and welcome to my repository. My life philosophy is 
 This repository contains primarily PowerBI dashboards that provides visualations and conducts analysis on data from fictitious companies that resemble the real world analysis. 
 
 Key Components:
--Data Cleaning
+- *Data Cleaning*
 -Data Transformation
 -Data Normalization
 -Data Modeling
